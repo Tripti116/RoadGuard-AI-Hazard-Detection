@@ -1,0 +1,9 @@
+dataset/
+runs/
+video_results/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+yolo26n.pt
+backend_handoff.zip
