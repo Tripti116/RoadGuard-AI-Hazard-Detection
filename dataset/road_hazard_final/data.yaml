@@ -1,0 +1,13 @@
+path: C:/Users/tript/Downloads/PROJECTS/Road_Hazard_Detection/dataset/road_hazard_final
+
+train: train/images
+val: val/images
+test: test/images
+
+nc: 4
+
+names:
+  0: pothole
+  1: crack
+  2: waterlogging
+  3: debris
